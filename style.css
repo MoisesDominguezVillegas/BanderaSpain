@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.contenedor{
+  width: 400px; 
+  margin: 0 auto;
+}
+.bandera{
+  margin: 80px;
+  width: 70px;
+  height: 150px;
+  background-color: #EF3349;
+  box-shadow: 70px 0 #FDDA25, 140px 0 #EF3349;
+  filter: drop-shadow(0 0 1px);
+}
+h1{
+  display: inline-block;
+  text-align: center;
+  margin: 100px 100px -30px 120px;
+}
